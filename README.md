@@ -1,5 +1,2 @@
 # learn-github
-About me => 
-Name : Patrdanai Chumrus
-Age : 19
-I'm starter programmer.
+Hi guys! I'm Pat. I just learned how to use this website to keep my collection project and programming language. Nowadays, I'm studying in the faculty of engineering, IoT Branch.
